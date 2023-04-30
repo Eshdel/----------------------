@@ -1,0 +1,15 @@
+C:\Labs\Языки Программирования\bin\Debug\net7.0\Языки Программирования.exe
+C:\Labs\Языки Программирования\bin\Debug\net7.0\Языки Программирования.deps.json
+C:\Labs\Языки Программирования\bin\Debug\net7.0\Языки Программирования.runtimeconfig.json
+C:\Labs\Языки Программирования\bin\Debug\net7.0\Языки Программирования.dll
+C:\Labs\Языки Программирования\bin\Debug\net7.0\Языки Программирования.pdb
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.csproj.AssemblyReference.cache
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.AssemblyInfoInputs.cache
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.AssemblyInfo.cs
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.csproj.CoreCompileInputs.cache
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.dll
+C:\Labs\Языки Программирования\obj\Debug\net7.0\refint\Языки Программирования.dll
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.pdb
+C:\Labs\Языки Программирования\obj\Debug\net7.0\Языки Программирования.genruntimeconfig.cache
+C:\Labs\Языки Программирования\obj\Debug\net7.0\ref\Языки Программирования.dll
